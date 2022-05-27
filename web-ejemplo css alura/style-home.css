@@ -1,0 +1,129 @@
+/* 
+header{
+  background-color: #bbbbbb;
+}
+
+.caja{
+  width: 940px;
+  position: relative;
+  margin: 0 auto; 
+}
+
+nav{
+  position: absolute;
+  top: 110px;
+  right: 0;
+}
+
+nav li{
+  display: inline;
+  margin: 0 0 0 15px;
+}
+
+nav a{
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: bold;
+  font-size: 22px;
+  text-decoration: none;
+}
+
+nav a:hover{
+  color: #c78c19 ;
+  text-decoration: underline;
+}
+
+
+.principal{
+   background: #CCCCCC;
+   padding: 20px;
+   font-size: 20px;
+}
+
+.titulo-principal{
+  text-align: center ;
+  font-size: 2em;
+  margin: 0 0 1em;
+  clear: left;
+
+}
+
+.utensilios{
+  width: 120px;
+  float: left;
+  margin: 0 20px 20px 0;
+}
+
+
+p{
+    text-align: center ;
+    
+}
+
+
+  em strong{
+   color: black;
+
+}
+
+#mision{
+  font-size: 25px;
+
+}
+
+.diferenciales{
+   background: #FFFFFF;
+   padding: 30px;
+   font-weight: bold;
+   font-size: 30px;
+}
+
+
+
+.items{
+  font-style: italic;
+  font-size: 20px;
+}
+
+.diferenciales-lista{
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+
+.imagenDiferenciales{
+  width: 60%;
+}
+
+footer{
+  text-align: center;
+  background: url(imagenes/bg.jpg);
+  padding: 40px;
+
+}
+
+.copyright{
+  color: #ffffff;
+  font-size: 13px;
+  margin: 20px;
+
+}
+
+/*css para nuestra home */
+/* 
+/* .banner{
+   width: 100% ;
+}
+
+.principal p{
+   margin: 0 0 1em;
+}
+
+.principal strong{
+  font-weight:  bold;
+}
+
+.principal em{
+  font-style: italic;
+} */ 
